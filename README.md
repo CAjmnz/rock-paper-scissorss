@@ -1,5 +1,6 @@
 # rock-paper-scissorss
 first game to be developed by me 
+here is the link   https://cajmnz.github.io/rock-paper-scissorss/
  
  my learning so far in this project  
  
